@@ -1,4 +1,5 @@
-# Weekly Updadte Example
+# (DATE) Weekly Update Example
+
 To help the instructor be aware of your progress and know how to help, you are expected to submit a weekly update. This report should include:
 
 ## Progress
